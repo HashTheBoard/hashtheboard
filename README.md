@@ -14,19 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🤙 Bienvenue sur mon GitHub !
+## 😎 Bienvenue sur mon GitHub !
 
 ### ❓ &nbsp;À propos de moi
 - 🏳️ &nbsp; Français 🔵⚪️🔴 
-- 🎓 &nbsp; Étudiant en informatique à CESI Caen.
-- ❤️ &nbsp; Passioné par le monde des drones et plus particulièrement le [FPV](https://fr.wikipedia.org/wiki/Quadrirotor_FPV).
+- 🎓 &nbsp; Epide Alençon 💪.
+- ❤️ &nbsp; Passioné par le monde du code et de l'informatique
 ### 🛡️ &nbsp;Mes profils
-- 🧠 &nbsp;  (Compétition d'algorithmes) CodingGame: [@Tchoow](https://www.codingame.com/profile/e1b7cf093b3c8649780dc1862a1243729489804)
-- 🖌️ &nbsp; (Défis CSS) CSSbattle: [@Tchoow](https://cssbattle.dev/player/tchoow)
-- 💾 &nbsp; (Mini projets WEB) Code Pen: [@Tchoow](https://codepen.io/collection/kNWKNk?grid_type=grid)
-- 👨‍💻 &nbsp; (Cyber sécurité) Root-me: [@Tchoow](https://www.root-me.org/Tcoow)
+null...
 
-
+<!--
 ### 🛠 &nbsp;Connaissances techniques
 
 - 🌐 &nbsp;
@@ -77,9 +74,10 @@ Here are some ideas to get you started:
  
  <!--
  <img src="https://livesensei.media/wp-content/uploads/2021/10/77caa32884d735d439ade45ba37feaf2.gif" height=350 />
--->
-</div>
+ 
+ </div>
 <div align=center>
  <a href="https://app.daily.dev/Tchoow"><img src="" width="400" alt="Theo's Dev Card"/></a>
   </div>
+-->
 
