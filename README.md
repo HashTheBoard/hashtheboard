@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ### ❓ &nbsp;À propos de moi
 - 🏳️ &nbsp; Français 🔵⚪️🔴 
-- 🎓 &nbsp; Epide Alençon 💪.
 - ❤️ &nbsp; Passioné par le monde du code et de l'informatique
 ### 🛡️ &nbsp;Mes profils
 null...
