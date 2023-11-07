@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 😎 Bienvenue sur mon GitHub !
+## 🧐 Bienvenue sur mon GitHub !
 
 ### ❓ &nbsp;À propos de moi
 - 🏳️ &nbsp; Français 🔵⚪️🔴 
 - ❤️ &nbsp; Passioné par le monde du code et de l'informatique
 ### 🛡️ &nbsp;Mes profils
-null...
+- 🔥 formation Tssr scholarfab
 
 <!--
 ### 🛠 &nbsp;Connaissances techniques
